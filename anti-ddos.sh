@@ -3,13 +3,6 @@
 #########################################################
 #                 ANTI-DDOS BASH SCRIPT                 #
 ######################################################### 
-#                       CONTACT                         #
-#########################################################
-#              DEVELOPER : İSMAİL TAŞDELEN              #                       
-#           GMAIL : ismailtasdelen@protonmail.com       #
-# Linkedin : https://www.linkedin.com/in/ismailtasdelen #
-#           Telegram : https://t.me/ismailtasdelen      #
-#########################################################
 
 # For debugging use iptables -v.
 IPTABLES="/sbin/iptables"
